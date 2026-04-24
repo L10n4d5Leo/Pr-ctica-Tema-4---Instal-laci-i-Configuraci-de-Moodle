@@ -2,51 +2,53 @@
 # Configuración Inicial de Moodle
 
 ## 2. Administració inicial de Moodle
-![Text alternatiu](2.png "Títol opcional")
+inicie sesion como admin 
 ### 2.1. Administración del perfil de usuario
-
 #### Cambiar correo electrónico y contraseña
 
 En la siguiente imagen verás que cambié mi dirección de correo electrónico y mi contraseña.  
-![Cambio de correo y contraseña](ruta/a/la/imagen.png)
+![Text alternatiu](2.png "Títol opcional")
 
-#### Añadir un avatar al perfil
+#### Añadir un avatar al perfil(veras mi hermosa foto de perfil)
 
 Aquí se muestra cómo añadí un avatar a mi perfil en Moodle.  
-![Avatar en el perfil](ruta/a/la/imagen.png)
+![Text alternatiu](3.png "Títol opcional")
 
----
 
 ### 2.2. Configuración del sitio
 
 #### Cambiar el nombre del sitio
 
-He cambiado el nombre largo y corto del sitio y he configurado la página principal para que no muestre contenido a los usuarios no autenticados.  
-![Configuración de la página principal](ruta/a/la/imagen.png)
-
+He cambiado el nombre largo y he configurado la página principal para que no muestre contenido a los usuarios no autenticados.  
+![Text alternatiu](5.1.png "Títol opcional")
+![Text alternatiu](32.png "Títol opcional")
 #### Ajustar la franja horaria
 
 En esta imagen verás cómo ajusté la franja horaria del sitio para que las entregas de ejercicios se gestionen correctamente.  
-![Configuración de la franja horaria](ruta/a/la/imagen.png)
+![Text alternatiu](5.png "Títol opcional")
+![Text alternatiu](6.png "Títol opcional")
 
 #### Cambiar el idioma del sitio
 
 He cambiado el idioma del sitio y he instalado los paquetes de idioma necesarios.  
-![Cambio de idioma](ruta/a/la/imagen.png)
-
+![Text alternatiu](7.png "Títol opcional")
+![Text alternatiu](9.png "Títol opcional")
 #### Establecer una política de contraseñas robusta
 
 Aquí puedes ver cómo configuré las políticas de contraseñas para que sean seguras (mínimo 8 caracteres, mayúsculas, minúsculas y números).  
-![Política de contraseñas](ruta/a/la/imagen.png)
-
----
+![Text alternatiu](12.png "Títol opcional")
+![Text alternatiu](13.png "Títol opcional")
 
 ## 3. Creación de cursos
 
 #### Crear cursos A y B
 
 He creado el curso "A" con 3 temas y el curso "B" con 5 temas.  
-![Creación de cursos](ruta/a/la/imagen.png)
+![Text alternatiu](16.png "Títol opcional")
+![Text alternatiu](17.png "Títol opcional")
+![Text alternatiu](18.png "Títol opcional")
+![Text alternatiu](19.png "Títol opcional")
+![Text alternatiu](20.png "Títol opcional")
 
 #### Añadir un documento PDF a un tema del curso A
 
