@@ -20,6 +20,7 @@ Aquí se muestra cómo añadí un avatar a mi perfil en Moodle.
 #### Cambiar el nombre del sitio
 
 He cambiado el nombre largo y he configurado la página principal para que no muestre contenido a los usuarios no autenticados.  
+
 ![Text alternatiu](5.1.png "Títol opcional")
 ![Text alternatiu](32.png "Títol opcional")
 #### Ajustar la franja horaria
@@ -53,7 +54,8 @@ He creado el curso "A" con 3 temas y el curso "B" con 5 temas.
 #### Añadir un documento PDF a un tema del curso A
 
 He añadido un archivo PDF a uno de los temas del curso A.  
-![Añadir PDF a un tema](ruta/a/la/imagen.png)
+![Text alternatiu](p.png "Títol opcional")
+
 
 #### Cambiar el título de un tema
 
