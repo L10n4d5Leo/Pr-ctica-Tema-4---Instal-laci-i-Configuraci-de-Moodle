@@ -71,19 +71,18 @@ Aquí se muestra cómo cambié el título de uno de los temas dentro del curso A
 #### Crear el usuario Bob
 
 He creado manualmente un usuario llamado Bob con autenticación manual.  
-![Creación de usuario Bob](ruta/a/la/imagen.png)
 
 ### 4.2. Creación masiva de alumnos
 
 #### Crear 10 alumnos mediante archivo CSV
 
 Utilicé un archivo CSV para crear 10 alumnos en Moodle.  
-![Carga masiva de usuarios](ruta/a/la/imagen.png)
+![Text alternatiu](25.png "Títol opcional")
+![Text alternatiu](26.png "Títol opcional")
 
 #### Eliminar 2 alumnos
 
-En la siguiente imagen verás cómo eliminé dos de los alumnos creados mediante las acciones en bloque.  
-![Eliminación de usuarios](ruta/a/la/imagen.png)
+En la siguiente imagen verás cómo eliminé dos de los alumnos creados mediante las acciones en bloque. 
 
 ---
 
