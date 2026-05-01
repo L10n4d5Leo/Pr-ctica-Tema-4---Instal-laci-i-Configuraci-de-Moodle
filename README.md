@@ -148,6 +148,7 @@ Ruben aqui estuve una hora con mi padre buscando justo esto y mira como no me de
 
 ## 10. Importación y exportación de cursos
 Aquí  exporte una copia de seguridad del curso y se la pase a un compañero.
-![Text alternatiu](53.png "Títol opcional")
+![Text alternatiu](49.png "Títol opcional") no se la pude enviar a nadie porque no se termino no se porque 
+
 ##  11. Seguridad
 Aquí bloquee una IP específica y aplique una política de seguridad justificando la decisión.
