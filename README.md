@@ -143,7 +143,8 @@ He completado todas las tareas evaluables con un usuario alumno.
 ![Text alternatiu](53.png "Títol opcional")
 
 ##  9. Cuestionarios
-Aquí se creó un cuestionario usando el banco de preguntas, organizando categorías y verificando respuestas entre estudiante y profesor.
+Ruben aqui estuve una hora con mi padre buscando justo esto y mira como no me deja crear las preguntas 
+
 
 ## 10. Importación y exportación de cursos
 Aquí  exporte una copia de seguridad del curso y se la pase a un compañero.
