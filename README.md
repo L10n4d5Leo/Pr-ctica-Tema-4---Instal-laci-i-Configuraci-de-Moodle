@@ -60,7 +60,7 @@ He añadido un archivo PDF a uno de los temas del curso A
 #### Cambiar el título de un tema
 
 Aquí se muestra cómo cambié el título de uno de los temas dentro del curso A.  
-![Text alternatiu](nombre de tema.png "Títol opcional")
+![Text alternatiu](nombre de tema.jpg "Títol opcional")
 
 ---
 
