@@ -60,7 +60,7 @@ He añadido un archivo PDF a uno de los temas del curso A
 #### Cambiar el título de un tema
 
 Aquí se muestra cómo cambié el título de uno de los temas dentro del curso A.  
-![Text alternatiu](nombre de tema.png "Títol opcional")
+![Text alternatiu](51.png "Títol opcional")
 
 ---
 
@@ -71,7 +71,7 @@ Aquí se muestra cómo cambié el título de uno de los temas dentro del curso A
 #### Crear el usuario Bob
 
 He creado manualmente un usuario llamado Bob con autenticación manual.  
-
+![Text alternatiu](23.png "Títol opcional")
 ### 4.2. Creación masiva de alumnos
 
 #### Crear 10 alumnos mediante archivo CSV
@@ -83,7 +83,7 @@ Utilicé un archivo CSV para crear 10 alumnos en Moodle.
 #### Eliminar 2 alumnos
 
 En la siguiente imagen verás cómo eliminé dos de los alumnos creados mediante las acciones en bloque. 
-
+![Text alternatiu](52.png "Títol opcional")
 ---
 
 ## 5. Matriculación de usuarios en los cursos
