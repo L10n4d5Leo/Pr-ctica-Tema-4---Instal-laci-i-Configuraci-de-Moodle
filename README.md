@@ -114,26 +114,26 @@ He añadido un logotipo al sitio de Moodle.
 #### Asignar un profesor y matricular alumnos
 
 He asignado un profesor y matriculado a los alumnos en el curso A.  
-![Text alternatiu](.png "Títol opcional")
+![Text alternatiu](38.png "Títol opcional")
 
 #### Añadir actividades y recursos
 
-Añadí varios tipos de actividades y recursos en el curso A.  
-![Añadir actividades al curso A](ruta/a/la/imagen.png)
+Añadí una actividad  
+![Text alternatiu](40.png "Títol opcional")
+
 
 #### Crear una tarea con fecha de entrega
 
 He creado una tarea con fecha de entrega abierta que permite la carga de un archivo PDF.  
-![Crear tarea](ruta/a/la/imagen.png)
+![Text alternatiu](40.png "Títol opcional")
 
 ### 7.2. Curso B
 
 #### Clonar contenido del curso A al curso B
 
-He clonado el contenido del curso A al curso B utilizando la función de importación.  
-![Clonar contenido entre cursos](ruta/a/la/imagen.png)
+He clonado el contenido del curso A al curso B utilizando la función de importación.(solo lo importe pero creo que mal pero se importarlo eh)  
+![Text alternatiu](41.png "Títol opcional")
 
----
 
 ## 8. Calificaciones e insignias
 
