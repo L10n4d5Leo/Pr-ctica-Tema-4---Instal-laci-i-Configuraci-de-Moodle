@@ -83,8 +83,8 @@ Utilicé un archivo CSV para crear 10 alumnos en Moodle.
 #### Eliminar 2 alumnos
 
 En la siguiente imagen verás cómo eliminé dos de los alumnos creados mediante las acciones en bloque. 
+
 ![Text alternatiu](52.png "Títol opcional")
----
 
 ## 5. Matriculación de usuarios en los cursos
 
@@ -93,46 +93,20 @@ En la siguiente imagen verás cómo eliminé dos de los alumnos creados mediante
 #### Curso A: Desactivar métodos de inscripción
 
 He desactivado cualquier método de inscripción para que el curso A sea accesible sin necesidad de iniciar sesión.  
-![Desactivar inscripción en curso A](ruta/a/la/imagen.png)
+![Text alternatiu](30.png "Títol opcional")
 
 #### Curso B: Activar inscripción manual
 
 He activado la inscripción manual para que el curso B requiera inicio de sesión y he matriculado a Bob como profesor y al resto como estudiantes.  
-![Inscripción manual en curso B](ruta/a/la/imagen.png)
+![Text alternatiu](33.png "Títol opcional")
 
-### 5.2. Verificación
-
-#### Verificar accesibilidad del curso A
-
-En la siguiente imagen puedes ver que el contenido del curso A es accesible públicamente, sin necesidad de iniciar sesión.  
-![Acceso público al curso A](ruta/a/la/imagen.png)
-
-#### Verificar accesibilidad del curso B
-
-Aquí puedes comprobar que para acceder al curso B es necesario iniciar sesión.  
-![Acceso al curso B](ruta/a/la/imagen.png)
-
----
 
 ## 6. Personalización del sitio
 
-#### Cambiar el aspecto del sitio
-
-He descargado y activado un tema nuevo.  
-![Activar nuevo tema](ruta/a/la/imagen.png)
-
-#### Modificar la cabecera, pie de página y página principal
-
-He realizado modificaciones en la cabecera, pie de página y la página principal de Moodle.  
-![Modificar cabecera y pie de página](ruta/a/la/imagen.png)
-
 #### Añadir un logotipo al sitio
 
-He añadido un logotipo al sitio de Moodle.  
-![Logotipo en Moodle](ruta/a/la/imagen.png)
-
----
-
+He añadido un logotipo al sitio de Moodle. 
+![Text alternatiu](LOGO.png "Títol opcional")
 ## 7. Creación de contenidos y actividades
 
 ### 7.1. Curso A
@@ -140,7 +114,7 @@ He añadido un logotipo al sitio de Moodle.
 #### Asignar un profesor y matricular alumnos
 
 He asignado un profesor y matriculado a los alumnos en el curso A.  
-![Asignar profesores y alumnos](ruta/a/la/imagen.png)
+![Text alternatiu](.png "Títol opcional")
 
 #### Añadir actividades y recursos
 
