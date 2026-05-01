@@ -53,7 +53,7 @@ He creado el curso "A" con 3 temas y el curso "B" con 5 temas.
 
 #### Añadir un documento PDF a un tema del curso A
 
-He añadido un archivo PDF a uno de los temas del curso A.  
+He añadido un archivo PDF a uno de los temas del curso A  
 ![Text alternatiu](p.png "Títol opcional")
 
 
