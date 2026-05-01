@@ -152,3 +152,15 @@ Aquí  exporte una copia de seguridad del curso y se la pase a un compañero.
 
 ##  11. Seguridad
 Aquí bloquee una IP específica y aplique una política de seguridad justificando la decisión.
+![Text alternatiu](54.png "Títol opcional") 
+
+# 🔒 Política de seguridad – Control de acceso por IP en Moodle
+
+## 🧾 Justificación
+
+He implementado el bloqueo de una dirección IP específica en el servidor que aloja Moodle 
+
+
+## 🛡️ Política de seguridad aplicada
+
+He aplicado una política de control de acceso basada en direcciones IP en el servidor donde se ejecuta Moodle.
