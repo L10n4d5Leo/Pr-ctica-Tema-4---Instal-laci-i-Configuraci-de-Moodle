@@ -140,4 +140,4 @@ He clonado el contenido del curso A al curso B utilizando la función de importa
 #### Completar tareas evaluables
 
 He completado todas las tareas evaluables con un usuario alumno.  
-![Evaluar tareas](ruta/a/la/imagen.png)
+![Text alternatiu](53.png "Títol opcional")
