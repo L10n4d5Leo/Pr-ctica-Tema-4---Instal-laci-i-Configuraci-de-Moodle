@@ -144,10 +144,10 @@ He completado todas las tareas evaluables con un usuario alumno.
 
 ##  9. Cuestionarios
 Ruben aqui estuve una hora con mi padre buscando justo esto y mira como no me deja crear las preguntas 
-
+![Text alternatiu](51.png "Títol opcional")
 
 ## 10. Importación y exportación de cursos
 Aquí  exporte una copia de seguridad del curso y se la pase a un compañero.
-
+![Text alternatiu](53.png "Títol opcional")
 ##  11. Seguridad
 Aquí bloquee una IP específica y aplique una política de seguridad justificando la decisión.
